@@ -14,6 +14,15 @@ This project builds a machine learning pipeline to analyze these factors and pre
 ## 🚀 Live Demo
 
 👉 [Try the Loan Approval Prediction App](https://loanapprovalprediction-4ccr7iadxaugj5ayu9fez8.streamlit.app)
+## 📸 Application Screenshots
+
+### ✅ Loan Approved
+
+![Loan Approved](screenshots/loan_approved.png)
+
+### ❌ Loan Rejected
+
+![Loan Rejected](screenshots/loan_rejected.png)
 
 ### 🎯 Objective
 
