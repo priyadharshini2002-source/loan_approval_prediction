@@ -18,7 +18,7 @@ This project builds a machine learning pipeline to analyze these factors and pre
 
 ### ✅ Loan Approved
 
-![Loan Approved](screenshots/loan_approved.png)
+![Loan Approved](screenshots/loan_approval.png)
 
 ### ❌ Loan Rejected
 
