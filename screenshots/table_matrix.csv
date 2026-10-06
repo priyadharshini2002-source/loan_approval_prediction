@@ -1,0 +1,5 @@
+﻿,Accuracy (%),Precision (%),Recall (%),F1-Score (%)
+Logistic Regression,90.52,89.96,89.69,89.82
+Decision Tree,97.78,97.65,97.59,97.62
+Logistic Regression + SMOTE,91.22,90.28,91.34,90.73
+Decision Tree + SMOTE,97.07,96.84,96.9,96.87
