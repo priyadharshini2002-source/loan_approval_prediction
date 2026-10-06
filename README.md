@@ -11,6 +11,9 @@ The project includes data preprocessing, exploratory data analysis, multiple mac
 Loan approval decisions depend on several factors such as income, loan amount, credit score, assets, education, employment status, and number of dependents.
 
 This project builds a machine learning pipeline to analyze these factors and predict loan approval status.
+## 🚀 Live Demo
+
+👉 [Try the Loan Approval Prediction App](https://loanapprovalprediction-4ccr7iadxaugj5ayu9fez8.streamlit.app)
 
 ### 🎯 Objective
 
